@@ -1,0 +1,410 @@
+{
+  "bundle": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "exports": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "popunder": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "pfe": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "v2": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "aas": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "bultykh": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "ceef": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "fyckld0t": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "pn07uscr": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "q": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "sc4fr": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "t": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "tagman": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "120x600": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "160x600": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "468x60": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "480x60": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "728x90": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "640x100": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "800x160": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "w300": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "w728": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "assets": [
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "banners": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "ad": [
+    "image"
+  ],
+  "ads": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "image": [
+    "image"
+  ],
+  "img": [
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument",
+    "image"
+  ],
+  "adbanners": [
+    "image"
+  ],
+  "adhandler": [
+    "image",
+    "script",
+    "stylesheet",
+    "media"
+  ],
+  "admanager": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "prebid": [
+    "script"
+  ],
+  "adsbanner": [
+    "image"
+  ],
+  "adsdelivery": [
+    "subdocument"
+  ],
+  "adserve": [
+    "script"
+  ],
+  "adsimage": [
+    "image"
+  ],
+  "adsimages": [
+    "image"
+  ],
+  "adsimg": [
+    "image"
+  ],
+  "adsplugin": [
+    "script"
+  ],
+  "advadsv3": [
+    "script",
+    "stylesheet"
+  ],
+  "adverts": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "aff": [
+    "image"
+  ],
+  "affbanners": [
+    "image"
+  ],
+  "affiliate": [
+    "image"
+  ],
+  "banner": [
+    "subdocument"
+  ],
+  "affiliateads": [
+    "image"
+  ],
+  "bannerads": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "exoads": [
+    "script"
+  ],
+  "exonb": [
+    "script"
+  ],
+  "exonob": [
+    "script"
+  ],
+  "imageads": [
+    "image"
+  ],
+  "include": [
+    "script"
+  ],
+  "modules": [
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "nativeads": [
+    "script"
+  ],
+  "neverblock": [
+    "script"
+  ],
+  "pageear": [
+    "script"
+  ],
+  "partnerads": [
+    "script"
+  ],
+  "peelads": [
+    "script"
+  ],
+  "phpads": [
+    "script"
+  ],
+  "phpadsnew": [
+    "image",
+    "script"
+  ],
+  "plugin": [
+    "script"
+  ],
+  "plugins": [
+    "script",
+    "stylesheet"
+  ],
+  "publicidad": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "publicidade": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "publicidades": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "reklam": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "reklame": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "servead": [
+    "script",
+    "subdocument"
+  ],
+  "servlet": [
+    "script"
+  ],
+  "skin": [
+    "script",
+    "image",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "sp": [
+    "script"
+  ],
+  "videoad": [
+    "script"
+  ],
+  "videoads": [
+    "image",
+    "script",
+    "stylesheet",
+    "media",
+    "subdocument"
+  ],
+  "view": [
+    "subdocument"
+  ],
+  "webads": [
+    "image"
+  ],
+  "www": [
+    "script",
+    "subdocument"
+  ],
+  "i": [
+    "script"
+  ],
+  "lv": [
+    "script"
+  ],
+  "myvids": [
+    "script",
+    "subdocument"
+  ],
+  "porpoiseant": [
+    "script"
+  ],
+  "prebidlink": [
+    "script"
+  ],
+  "adblockdetector": [
+    "script"
+  ]
+}

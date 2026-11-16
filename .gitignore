@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+websites/*_attack_I_gs_*.html
+websites/*_attack_I_rs_*.html
+websites/*_attack_II.html
+websites/*_attack_III.html
