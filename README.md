@@ -8,12 +8,11 @@ files, and saves the resulting adversarial pages.
 For Attack I, we additionally provide keyword sets extracted from EasyList,
 located in the `utils/keywordlist` directory.
 
-We also provide two demonstration videos at this
-[link](https://drive.google.com/drive/folders/1FMyYs9HE0TRsSOCfwI40pERfLcRH7xfW?usp=sharing).
-These videos illustrate Attack I using greedy and random sampling strategies,
-respectively. In both demonstrations, the attack is evaluated against AdBlocker
-Ultimate installed on Firefox, which exhibited the largest page load times in
-our main experiment.
+We also provide a demonstration video at this
+[link](https://youtu.be/ceAGBaInVWE). This illustrates Attack I using greedy and
+random sampling strategies. In this demonstration, we evaluate the attack
+against AdBlocker Ultimate in Firefox, which showed the longest page load times
+in our main experiment.
 
 ## Project Structure
 
